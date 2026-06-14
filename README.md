@@ -17,8 +17,3 @@ Sou Desenvolvedor de Software focado na criação de aplicações modernas e efi
 | **Ferramentas** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radical&include_all_commits=true" alt="Status do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150">
-</div>
